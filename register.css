@@ -1,0 +1,32 @@
+*{
+    color: whitesmoke;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url("images/leaves.jpg");
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.container {
+    width: 400px;
+   
+    padding: 30px;
+    border-radius: 50px;
+}
+.lable{
+    font-family: candara;
+    border-radius: 10px;
+}
+.lable1{
+    color: black;
+    font-family: candara;
+   
+}
+.lable2{
+    color: black;
+    font-family: candara;
+}
