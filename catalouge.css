@@ -15,7 +15,7 @@
 }
 
 .bg-img {
-    background-image: url("images\leaves.jpg");
+    background-image: url("images/leaves.jpg");
     min-height: 100vh;
     background-size: cover;
     display: flex;
@@ -32,5 +32,5 @@ img{
     width: 280px;
 }
 body{
-    background-image: url("images\leaves.jpg");
+    background-image: url("images/leaves.jpg");
 }
